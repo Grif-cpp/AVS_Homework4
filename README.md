@@ -1,1 +1,2 @@
-# AVS_Homework4
+Реализация задачи через C и Nasm.
+Формат ввода в файле Description
